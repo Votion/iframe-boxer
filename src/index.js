@@ -1,6 +1,3 @@
-'use strict';
-const window = require('window');
-
 /**
  * If the page isn't within an iframe, then redirect to the page that is suppose to host the iframe
  *

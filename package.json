@@ -1,6 +1,6 @@
 {
   "name": "iframe-boxer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Force your page to display in an iframe",
   "main": "lib/index.js",
   "scripts": {
